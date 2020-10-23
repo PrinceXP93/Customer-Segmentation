@@ -1,2 +1,2 @@
 # Python
-Python Mini Project - Customer Segmentation
+Python Mini Project - Customer Segmentation[Data Science]
